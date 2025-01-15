@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Pydantic AI: Documentation Crawler and RAG Agent
 
 An intelligent documentation crawler and RAG (Retrieval-Augmented Generation) agent built using Pydantic AI and Supabase. The agent can crawl documentation websites, store content in a vector database, and provide intelligent answers to user questions by retrieving and analyzing relevant documentation chunks.
@@ -126,3 +127,6 @@ The system includes robust error handling for:
 - Database connection issues
 - Embedding generation errors
 - Invalid URLs or content
+=======
+# crawllm
+>>>>>>> c8b42817e59b1fe9646e66eaaba9ae823e0b56a1
